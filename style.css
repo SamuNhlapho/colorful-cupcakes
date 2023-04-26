@@ -1,8 +1,11 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
-    color: whitesmoke;
+    background-color: #ff006e;
+    color: #222823;
 }
+h1{text-align: center;}
+h2{text-align: center;}
+h1{text-size-adjust: 60;}
 
 .cupcake {
     display: flex;
@@ -23,28 +26,29 @@ body {
 .img {
     align-self: flex-start;
     height: auto; 
-    max-width: 100%;
+    max-width: 150%;
 }
 
 
 .cupcake_box {
     padding: 1em;
     margin: 1em;
-    border-radius: 0.5em;
+    border-radius: 1em;
 }
 
 .cupcake1 {
-    background-color: #ff006e;
-}
+    background-color: #f0f600;
 
+}
+h1 {text-align: center}
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: #3ec300;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: #3a86ff;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: #ff006e;
 }
